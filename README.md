@@ -1,3 +1,5 @@
+![Header](https://raw.githubusercontent.com/ldrouvot/ldrouvot/master/logo.png "Header")
+
 # Hey! <img src="https://raw.githubusercontent.com/ldrouvot/ldrouvot/master/wave.gif" width="30px">
 
 My name is Lucas Drouvot. I'm from France, working around data as data analyst, data engineer and data scientist.  
