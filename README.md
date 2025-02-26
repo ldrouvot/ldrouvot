@@ -1,4 +1,4 @@
-# Hey! <img src="https://raw.githubusercontent.com/ldrouvot/master/wave.gif" width="30px">
+# Hey! <img src="https://raw.githubusercontent.com/ldrouvot/ldrouvot/master/wave.gif" width="30px">
 
 My name is Lucas Drouvot. I'm from France, working around data as data analyst, data engineer and data scientist.  
 I studied Mathematical Modeling, Data Analysis, and Artificial Intelligence at ISIMA INP, an engineering school located in Clermont-Ferrand, France. 
