@@ -9,7 +9,7 @@ This repository contains some of my academic and personal projects, showcasing d
 
 ## &#x270d; Portfolio & Blog
 
-* maintain a [portfolio]().
+* maintain a [portfolio](https://www.ldrouvot.fr/).
 
 ## 🔧 Technologies & Tools
 
