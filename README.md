@@ -9,7 +9,7 @@ This repository contains some of my academic and personal projects, showcasing d
 
 ## &#x270d; Portfolio & Blog
 
-* maintain a [portfolio](https://www.ldrouvot.fr/).
+* maintain a [portfolio](https://portfolio-h1dhc18h8-ldrouvots-projects.vercel.app/).
 
 ## 🔧 Technologies & Tools
 
